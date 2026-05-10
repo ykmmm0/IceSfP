@@ -113,7 +113,7 @@ pip install -r requirements.txt
 ## Quick Start
 
 ```python
-# Coming soon — training and inference scripts will be released upon publication
+# Coming soon — training and inference scripts are currently under preparation.
 ```
 
 ---
@@ -127,7 +127,7 @@ If you find this work useful for your research, please cite:
   title     = {Structure-Aware Consistency Priors for Shape from Polarization in Complex Media},
   author    = {Yu, Kaimin and Wang, Puyun and He, Huayang and Wu, Xianyu},
   booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
-  year      = {xxxx},
+  year      = {2026},
   address   = {xxx}
 }
 ```

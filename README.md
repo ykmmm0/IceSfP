@@ -15,7 +15,6 @@
 School of Mechanical Engineering and Automation, Fuzhou University  
 Research Institute of Highway, Ministry of Transport, Beijing
 
-† Corresponding author: [xwu@fzu.edu.cn](mailto:xwu@fzu.edu.cn)
 
 ---
 
@@ -96,13 +95,6 @@ We constructed the **first real-world SfP dataset for ice media**:
 
 > Our method achieves a **MAE of 16.01°**, outperforming the second-best method by **2.74°** — a significant margin in surface normal estimation.
 
-### Per-Model Performance
-
-Our method achieves the **lowest error across all 16 object categories**, demonstrating stable reconstruction across diverse geometries.
-
-### Generalization
-
-Quantitative comparison on the DeepSfP dataset shows **strong cross-dataset generalization**, with our method outperforming all baselines including those specifically designed for general-domain SfP.
 
 ---
 
@@ -143,14 +135,6 @@ If you find this work useful for your research, please cite:
 }
 ```
 
----
-
-## Contact
-
-For questions or collaboration, please reach out to:
-
-- **Xianyu Wu** (Corresponding author): [xwu@fzu.edu.cn](mailto:xwu@fzu.edu.cn)
-- **Kaimin Yu**: [kaimin.yu@fzu.edu.cn](mailto:kaimin.yu@fzu.edu.cn)
 
 ---
 

@@ -1,4 +1,4 @@
-# IceSfP
+
 <div align="center">
 
 # IceSfP: Structure-Aware Consistency Priors for Shape from Polarization in Complex Media

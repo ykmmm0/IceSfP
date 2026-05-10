@@ -18,9 +18,6 @@ Research Institute of Highway, Ministry of Transport, Beijing
 
 ---
 
-https://github.com/user-attachments/assets/d46e3074-2efc-4a14-8cc5-365f5c41b4c3
-
-</div>
 
 ## Overview
 
@@ -72,8 +69,7 @@ This prior guides the network toward regions where polarization signals are stru
 
 We constructed the **first real-world SfP dataset for ice media**:
 
-- **16** different ice objects with diverse geometries
-- **960** samples total (rotations from 0° to 360°)
+
 - High-precision ground-truth normals (0.1mm accuracy via structured-light 3D scanner)
 - Polarization images captured at **2448 × 2048** resolution using FLIR polarization camera
 - Ice samples fabricated via slow freezing in silicone molds to preserve realistic scattering effects
@@ -130,8 +126,8 @@ If you find this work useful for your research, please cite:
   title     = {Structure-Aware Consistency Priors for Shape from Polarization in Complex Media},
   author    = {Yu, Kaimin and Wang, Puyun and He, Huayang and Wu, Xianyu},
   booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
-  year      = {2026},
-  address   = {Seoul, South Korea}
+  year      = {xxxx},
+  address   = {xxx}
 }
 ```
 

@@ -17,7 +17,9 @@ Research Institute of Highway, Ministry of Transport, Beijing
 
 
 ---
-![Ta](./ice_optical.png)
+![Ta](./ice_optical.png)<p align="center">
+  <img src="./ice_optical.png" width="50%">
+</p>
 
 ## Overview
 

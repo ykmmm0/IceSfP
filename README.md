@@ -7,11 +7,6 @@ ICML 2026
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)](https://pytorch.org)
 
 
-Yu Kaimin, Wang Puyun, He Huayang, Wu Xianyu
-
-Fuzhou University  
-Research Institute of Highway, Ministry of Transport
-
 ---
   <img src="./ice_optical.png" width="50%">
 </p>

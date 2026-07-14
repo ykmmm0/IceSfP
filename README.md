@@ -110,8 +110,13 @@ If this work is useful for your research, please cite:
   title     = {Structure-Aware Consistency Priors for Shape from Polarization in Complex Media},
   author    = {Yu, Kaimin and Wang, Puyun and He, Huayang and Wu, Xianyu},
   booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
   year      = {2026},
   address   = {xxx}
+  volume    = {--},
+  series    = {Proceedings of Machine Learning Research},
+  address   = {Seoul, South Korea},
+  publisher = {PMLR}
 }
 ```
 

@@ -113,11 +113,6 @@ conda activate icesfp
 pip install -r requirements.txt
 ```
 
-## Quick Start
-
-```python
-# Coming soon — training and inference scripts are currently under preparation.
-```
 
 ---
 
@@ -129,9 +124,12 @@ If you find this work useful for your research, please cite:
 @inproceedings{yu2026icesfp,
   title     = {Structure-Aware Consistency Priors for Shape from Polarization in Complex Media},
   author    = {Yu, Kaimin and Wang, Puyun and He, Huayang and Wu, Xianyu},
-  booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
   year      = {2026},
-  address   = {xxx}
+  volume    = {--},
+  series    = {Proceedings of Machine Learning Research},
+  address   = {Seoul, South Korea},
+  publisher = {PMLR}
 }
 ```
 

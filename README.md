@@ -3,7 +3,6 @@
 ICML 2026
 
 [![Paper](https://img.shields.io/badge/Paper-ICML%202026-blue)](https://proceedings.mlr.press)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-orange)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)](https://pytorch.org)
 

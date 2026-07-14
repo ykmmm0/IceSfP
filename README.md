@@ -13,6 +13,11 @@ Yu Kaimin, Wang Puyun, He Huayang, Wu Xianyu
 Fuzhou University  
 Research Institute of Highway, Ministry of Transport
 
+---
+  <img src="./ice_optical.png" width="50%">
+</p>
+
+
 ## Overview
 
 Recovering surface normals from single-view polarization images in complex media remains a fundamental challenge in computer vision. This work focuses on ice, a representative complex medium where birefringence, multiple scattering, and anisotropic light transport can corrupt polarization measurements and break the assumptions of classical shape-from-polarization methods.
